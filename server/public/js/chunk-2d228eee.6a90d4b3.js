@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228eee"],{dafa:function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("h1",[e._v("平面公司管理系统")])},c=[],l={name:"Hello"},u=l,o=a("2877"),r=Object(o["a"])(u,t,c,!1,null,"7475aab8",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d228eee.6a90d4b3.js.map
